@@ -14,13 +14,13 @@
 
 Here are a few things I've picked up along my life.
 
-* 🐍 Python | C# | VB
+* 🐍 Python | C#
 * 🕹️ Django | Django Rest Framework | GeoDjango 
 * 🗺️ Leaflet | Mapbox | OpenStreetMap
 * 🐘 Postgresql | MySQL | SQLServer
 * :octocat: Git | Github
 * 🌐 HTML | CSS | JS
-* ☁ Firebase | AWS
+* ☁ DigitalOcean | AWS
 * 🌱 Coming soon Node.js
 
 ##
