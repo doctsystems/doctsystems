@@ -3,9 +3,9 @@
 #### I'm a Geo and Backend Developer and passionate about technologies and love to learn new things.
 
 
-### ✨ I'm currently Padawan Community Ambassador of Hackademy from <img src="https://img.icons8.com/officexs/30/000000/mexico.png"/>
+### ✨ I'm currently Padawan Community Ambassador of Hackademy  <img src="https://img.icons8.com/officexs/30/000000/mexico.png"/>
 
-#### 💻 I'm currently working as a Backend Developer at Bluebamboo from <img src="https://img.icons8.com/officexs/30/000000/argentina.png"/>
+#### 💻 I'm currently working as a Backend Developer at Bluebamboo  <img src="https://img.icons8.com/officexs/30/000000/argentina.png"/>
 
 ###### 👁️ I'm currently looking for new opportunities of job.
 
