@@ -1,13 +1,13 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Diego Cruz 👨‍💻 from <img src="https://img.icons8.com/offices/30/000000/bolivia.png"/>
 
-#### I'm a Geo and Backend Developer and passionate about technologies and love to learn new things.
+#### Freelance - Backend Developer - Passionate GIS Developer
+##### I'm passionate about technologies and love to learn new things. I have some years of experience developing (sometimes designing) Websites, Apps, APIs and others digital products, mainly with Python and Django but I also work with C# and .Net Framework
 
+##### 💻 I'm currently working as Software Engineer at Genesys
 
-### ✨ I'm currently Padawan Community Ambassador of Hackademy  <img src="https://img.icons8.com/officexs/30/000000/mexico.png"/>
+##### ✨ I'm currently Padawan Community Ambassador of Hackademy
 
-#### 💻 I'm currently working as a Backend Developer at Bluebamboo  <img src="https://img.icons8.com/officexs/30/000000/argentina.png"/>
-
-###### 👁️ I'm currently looking for new opportunities of job.
+###### 👁️ Always willing to listen to new job opportunities.
 
 ##
 ## ⚡ Tech Stack
@@ -16,12 +16,12 @@ Here are a few things I've picked up along my life.
 
 * 🐍 Python | C#
 * 🕹️ Django | Django Rest Framework | GeoDjango 
-* 🗺️ Leaflet | Mapbox | OpenStreetMap
-* 🐘 Postgresql | MySQL | SQLServer
+* 🗺️ Leaflet | OpenStreetMap
+* 🐘 Postgresql | MySQL | SQLServer | Oracle 
 * :octocat: Git | Github
 * 🌐 HTML | CSS | JS
-* ☁ DigitalOcean | AWS
-* 🌱 Coming soon Node.js
+* ☁ DigitalOcean | GCP (Pubsub)
+* 🌱 Coming soon Vue.js
 
 ##
 ## :coffee: Let's Connect 
